@@ -1,5 +1,3 @@
-package pull;
-
 public class HeatIndexDisplay implements Observer, DisplayElement {
     private float heatIndex = 0.0f;
     private WeatherData weatherData;
